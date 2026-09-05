@@ -1,0 +1,51 @@
+cff-version: 1.2.0
+title: >-
+  Hierarchical Intent-Aware Routing for Hybrid VLC/RF VANET-FANET
+  Networks: code and datasets
+message: >-
+  If you use this software or these datasets, please cite both this
+  repository and the accompanying paper.
+type: software
+authors:
+  - given-names: Mohit Kumar
+    family-names: Thakur
+    email: mohitthakur@ece.du.ac.in
+    affiliation: >-
+      Department of Electronics and Communication Engineering, Faculty of
+      Technology, University of Delhi, Delhi, India
+  - given-names: Gurinder
+    family-names: Singh
+    email: gurindersingh@ece.du.ac.in
+    affiliation: >-
+      Department of Electronics and Communication Engineering, Faculty of
+      Technology, University of Delhi, Delhi, India
+  - given-names: Vivek Ashok
+    family-names: Bohara
+    email: vivek.b@iiitd.ac.in
+    affiliation: >-
+      Department of Electronics and Communications Engineering,
+      Indraprastha Institute of Information Technology Delhi (IIIT-Delhi),
+      New Delhi, India
+abstract: >-
+  Reproducibility package for a hierarchical, cascaded intent-aware routing
+  framework for hybrid radio-frequency / visible light communication
+  vehicular networks with UAV relays. Contains the dataset-generation and
+  routing-evaluation notebooks, the three congestion-regime datasets used
+  for every reported result, and MATLAB scripts that regenerate the
+  manuscript figures.
+keywords:
+  - intent-based networking
+  - visible light communication
+  - VANET
+  - FANET
+  - UAV relaying
+  - multi-criteria routing
+  - analytic hierarchy process
+license: MIT
+# NOTE: `license: MIT` above describes the CODE. The generated datasets in
+# data/generated/ are CC BY 4.0 (see LICENSE-DATA), and
+# data/raw/FinalV2V_Dataset.csv is third-party data covered by neither
+# (see data/raw/README.md).
+#
+# TODO before release: add `version:`, `date-released:` and, if you later
+# mint one via Zenodo, `doi:`.
