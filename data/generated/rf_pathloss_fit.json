@@ -1,0 +1,17 @@
+{
+  "PL0": 107.88174961671604,
+  "slope": 20.000000000907693,
+  "n_exponent": 2.000000000090769,
+  "r2_short_range_holdout": 1.0,
+  "r2_short_range_full_fit": 1.0,
+  "resid_std_short_db": 2.882429043609195e-08,
+  "breakpoint_m": 250.0,
+  "pl_at_breakpoint": 155.84054979233338,
+  "slope_beyond_breakpoint": 32.19095311574622,
+  "n_exponent_beyond_breakpoint": 3.219095311574622,
+  "r2_beyond_breakpoint": 0.05295118749000971,
+  "speed_mean_kmh": 64.960739631706,
+  "speed_std_kmh": 2.8903978449446748,
+  "n_field_rows": 10252,
+  "n_field_rows_short_range": 1773
+}
